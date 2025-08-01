@@ -3,12 +3,9 @@
 A full-featured, production-grade monolithic NestJS backend that includes:
 
 - ✅ JWT Authentication (Register/Login)
-- 📄 Document Management (Upload, Download, List)
-- 🔁 Ingestion Trigger to Python backend using Axios
+- 📄 Movie Management
 - ⚙️ Modular structure with reusable services
 - 📄 Swagger API Documentation
-- 🧪 Unit testing with Jest
-- 🧪 Faker-based seed script
 
 ---
 
