@@ -1,0 +1,10 @@
+.loginpage,
+.defaultTheme {
+  background-image: url("./assets/Vectors.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: contain;
+  position: relative;
+  min-height: 100vh;
+  background-color: #093545;
+}
